@@ -8,4 +8,4 @@ Custom language (conlang) Ardiuno clock project.
 
 ## How to Run
 
-TBD
+Its an Arduino program u got this bro <3
